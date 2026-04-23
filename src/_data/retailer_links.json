@@ -1,4 +1,13 @@
 {
+  "schlage-encode-smart-wifi-deadbolt": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.canadiantire.ca/en/pdp/schlage-encode-smart-wifi-deadbolt-with-century-trim-rated-aaa-security-matte-black-0463332p.html",
+        "affiliate_url": "https://www.canadiantire.ca/en/pdp/schlage-encode-smart-wifi-deadbolt-with-century-trim-rated-aaa-security-matte-black-0463332p.html"
+      }
+    ]
+  },
   "yale-assure-lock-2": {
     "links": [
       {
@@ -8,12 +17,12 @@
       }
     ]
   },
-  "schlage-encode-smart-wifi-deadbolt": {
+  "eufy-security-smart-lock-touch-wifi": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.canadiantire.ca/en/pdp/schlage-encode-smart-wifi-deadbolt-with-century-trim-rated-aaa-security-matte-black-0463332p.html",
-        "affiliate_url": "https://www.canadiantire.ca/en/pdp/schlage-encode-smart-wifi-deadbolt-with-century-trim-rated-aaa-security-matte-black-0463332p.html"
+        "raw_url": "https://www.supercheapauto.co.nz/p/eufy-eufy-security-smart-lock-touch-wifi/SPO8550706.html",
+        "affiliate_url": "https://www.supercheapauto.co.nz/p/eufy-eufy-security-smart-lock-touch-wifi/SPO8550706.html"
       }
     ]
   }
