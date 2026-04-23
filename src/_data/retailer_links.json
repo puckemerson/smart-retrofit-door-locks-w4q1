@@ -35,6 +35,15 @@
       }
     ]
   },
+  "ultraloq-u-bolt-pro-wifi": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://device.report/ultraloq/u-bolt-pro-wifi",
+        "affiliate_url": "https://device.report/ultraloq/u-bolt-pro-wifi"
+      }
+    ]
+  },
   "yale-assure-lock-2": {
     "links": [
       {
@@ -44,12 +53,12 @@
       }
     ]
   },
-  "ultraloq-u-bolt-pro-wifi": {
+  "august-smart-lock-pro": {
     "links": [
       {
-        "retailer": "generic",
-        "raw_url": "https://device.report/ultraloq/u-bolt-pro-wifi",
-        "affiliate_url": "https://device.report/ultraloq/u-bolt-pro-wifi"
+        "retailer": "bestbuy",
+        "raw_url": "https://www.bestbuy.com/site/reviews/august-smart-lock-pro-connect/6085415?page=4",
+        "affiliate_url": "https://www.bestbuy.com/site/reviews/august-smart-lock-pro-connect/6085415?page=4"
       }
     ]
   }
