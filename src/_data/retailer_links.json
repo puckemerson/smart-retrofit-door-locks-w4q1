@@ -8,6 +8,15 @@
       }
     ]
   },
+  "lockly-vision-elite": {
+    "links": [
+      {
+        "retailer": "amazon",
+        "raw_url": "https://www.amazon.com/Lockly-Deadbolt-Fingerprint-Control-Doorbell/dp/B0DS7W6KXY",
+        "affiliate_url": "https://www.amazon.com/Lockly-Deadbolt-Fingerprint-Control-Doorbell/dp/B0DS7W6KXY"
+      }
+    ]
+  },
   "schlage-encode-smart-wifi-deadbolt": {
     "links": [
       {
@@ -26,12 +35,12 @@
       }
     ]
   },
-  "lockly-vision-elite": {
+  "level-lock-plus": {
     "links": [
       {
-        "retailer": "amazon",
-        "raw_url": "https://www.amazon.com/Lockly-Deadbolt-Fingerprint-Control-Doorbell/dp/B0DS7W6KXY",
-        "affiliate_url": "https://www.amazon.com/Lockly-Deadbolt-Fingerprint-Control-Doorbell/dp/B0DS7W6KXY"
+        "retailer": "generic",
+        "raw_url": "https://www.homedepot.com/p/Level-Lock-Plus-Matter-Matte-Black-Matter-Over-Thread-Smart-Lock-Single-Cylinder-Deadbolt-w-Apple-Alexa-Google-SmartThings-A-F24U/338782332",
+        "affiliate_url": "https://www.homedepot.com/p/Level-Lock-Plus-Matter-Matte-Black-Matter-Over-Thread-Smart-Lock-Single-Cylinder-Deadbolt-w-Apple-Alexa-Google-SmartThings-A-F24U/338782332"
       }
     ]
   }
