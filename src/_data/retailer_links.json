@@ -1,4 +1,13 @@
 {
+  "eufy-security-smart-lock-touch-wifi": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.supercheapauto.co.nz/p/eufy-eufy-security-smart-lock-touch-wifi/SPO8550706.html",
+        "affiliate_url": "https://www.supercheapauto.co.nz/p/eufy-eufy-security-smart-lock-touch-wifi/SPO8550706.html"
+      }
+    ]
+  },
   "schlage-encode-smart-wifi-deadbolt": {
     "links": [
       {
@@ -17,12 +26,12 @@
       }
     ]
   },
-  "eufy-security-smart-lock-touch-wifi": {
+  "lockly-vision-elite": {
     "links": [
       {
-        "retailer": "generic",
-        "raw_url": "https://www.supercheapauto.co.nz/p/eufy-eufy-security-smart-lock-touch-wifi/SPO8550706.html",
-        "affiliate_url": "https://www.supercheapauto.co.nz/p/eufy-eufy-security-smart-lock-touch-wifi/SPO8550706.html"
+        "retailer": "amazon",
+        "raw_url": "https://www.amazon.com/Lockly-Deadbolt-Fingerprint-Control-Doorbell/dp/B0DS7W6KXY",
+        "affiliate_url": "https://www.amazon.com/Lockly-Deadbolt-Fingerprint-Control-Doorbell/dp/B0DS7W6KXY"
       }
     ]
   }
