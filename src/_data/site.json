@@ -7,5 +7,7 @@
   "url": "https://puckemerson.github.io",
   "about": "This is an independent smart retrofit door locks review site. Each review is a first-person take, grounded in research from across the web, with scoring categories chosen to fit the specific product.",
   "analytics_snippet": "",
-  "ghUser": "puckemerson"
+  "ghUser": "puckemerson",
+  "affiliate_disclosure_enabled": 0,
+  "affiliate_disclosure_text": ""
 }
