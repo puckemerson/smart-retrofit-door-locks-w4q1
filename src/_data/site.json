@@ -2,5 +2,10 @@
   "title": "The Retrofit Key",
   "tagline": "Expert reviews of smart locks that upgrade your existing door hardware.",
   "category": "Smart Retrofit Door Locks",
-  "pathPrefix": "/smart-retrofit-door-locks-w4q1/"
+  "pathPrefix": "/smart-retrofit-door-locks-w4q1/",
+  "slug": "smart-retrofit-door-locks-w4q1",
+  "url": "https://puckemerson.github.io",
+  "about": "This is an independent smart retrofit door locks review site. Each review is a first-person take, grounded in research from across the web, with scoring categories chosen to fit the specific product.",
+  "analytics_snippet": "",
+  "ghUser": "puckemerson"
 }
