@@ -1,0 +1,12 @@
+/* theme: sage + Manrope/Cormorant Garamond */
+:root {
+  --bg: #f5f7f3;
+  --fg: #1a2420;
+  --muted: #5e6a5f;
+  --accent: #4a7057;
+  --accent-soft: #dfe8da;
+  --border: #d8e0d0;
+  --card: #ffffff;
+  --font-sans: "Manrope", system-ui, -apple-system, sans-serif;
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+}
