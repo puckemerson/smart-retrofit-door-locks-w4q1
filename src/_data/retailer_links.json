@@ -8,6 +8,15 @@
       }
     ]
   },
+  "level-lock-plus": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.homedepot.com/p/Level-Lock-Plus-Matter-Matte-Black-Matter-Over-Thread-Smart-Lock-Single-Cylinder-Deadbolt-w-Apple-Alexa-Google-SmartThings-A-F24U/338782332",
+        "affiliate_url": "https://www.homedepot.com/p/Level-Lock-Plus-Matter-Matte-Black-Matter-Over-Thread-Smart-Lock-Single-Cylinder-Deadbolt-w-Apple-Alexa-Google-SmartThings-A-F24U/338782332"
+      }
+    ]
+  },
   "lockly-vision-elite": {
     "links": [
       {
@@ -35,12 +44,12 @@
       }
     ]
   },
-  "level-lock-plus": {
+  "ultraloq-u-bolt-pro-wifi": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.homedepot.com/p/Level-Lock-Plus-Matter-Matte-Black-Matter-Over-Thread-Smart-Lock-Single-Cylinder-Deadbolt-w-Apple-Alexa-Google-SmartThings-A-F24U/338782332",
-        "affiliate_url": "https://www.homedepot.com/p/Level-Lock-Plus-Matter-Matte-Black-Matter-Over-Thread-Smart-Lock-Single-Cylinder-Deadbolt-w-Apple-Alexa-Google-SmartThings-A-F24U/338782332"
+        "raw_url": "https://device.report/ultraloq/u-bolt-pro-wifi",
+        "affiliate_url": "https://device.report/ultraloq/u-bolt-pro-wifi"
       }
     ]
   }
