@@ -17,6 +17,15 @@
       }
     ]
   },
+  "kwikset-halo-touch-smart-lock": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://au.pcmag.com/smart-locks/84569/kwikset-halo-touch-fingerprint-smart-lock",
+        "affiliate_url": "https://au.pcmag.com/smart-locks/84569/kwikset-halo-touch-fingerprint-smart-lock"
+      }
+    ]
+  },
   "level-lock-plus": {
     "links": [
       {
@@ -59,15 +68,6 @@
         "retailer": "generic",
         "raw_url": "https://digitized.house/yale-assure-lock-2-advances-smart-lock-options/",
         "affiliate_url": "https://digitized.house/yale-assure-lock-2-advances-smart-lock-options/"
-      }
-    ]
-  },
-  "kwikset-halo-touch-smart-lock": {
-    "links": [
-      {
-        "retailer": "generic",
-        "raw_url": "https://au.pcmag.com/smart-locks/84569/kwikset-halo-touch-fingerprint-smart-lock",
-        "affiliate_url": "https://au.pcmag.com/smart-locks/84569/kwikset-halo-touch-fingerprint-smart-lock"
       }
     ]
   }

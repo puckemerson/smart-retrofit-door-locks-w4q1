@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "smart-locks-that-keep-existing-keys-working",
+    "title": "Smart Locks That Keep Your Existing Keys Working",
+    "intro_markdown": "Not ready to go fully keyless? These smart locks let you upgrade to app control, voice commands, and remote access without sacrificing the security blanket of a physical backup key. They install over your existing deadbolt mechanism, adding smart features while keeping the exterior keyhole intact—perfect for households with multiple generations, rental properties, or anyone who wants digital convenience without burning bridges to traditional entry.",
+    "outro_markdown": "Each of these locks strikes a different balance between smart features and traditional access, but all respect the reality that sometimes a physical key is simply the right tool for the moment.",
+    "created_at": 1776925062824,
+    "items": [
+      {
+        "post_slug": "level-lock-plus",
+        "rank": 1,
+        "blurb_markdown": "The invisible retrofit: installs completely inside your existing deadbolt, leaving the exterior untouched and your original keys fully functional. The ultimate pick for aesthetics-conscious homeowners who want smart access without advertising it."
+      },
+      {
+        "post_slug": "august-smart-lock-pro",
+        "rank": 2,
+        "blurb_markdown": "Pioneered the key-compatible retrofit category with its simple over-the-thumb-turn installation. Your existing keyed cylinder stays put on the outside while the smart mechanism handles interior locking—no rekeying, no hardware changes visible from the street."
+      },
+      {
+        "post_slug": "august-wifi-smart-lock",
+        "rank": 3,
+        "blurb_markdown": "Streamlined successor to the Pro with integrated WiFi, eliminating the bridge accessory while maintaining the same key-preserving retrofit approach. Slightly smaller footprint makes it less conspicuous on the interior door surface."
+      },
+      {
+        "post_slug": "wyze-lock",
+        "rank": 4,
+        "blurb_markdown": "Budget entry into key-compatible smart locks, using the same retrofit-over-deadbolt approach as August at a fraction of the cost. Performance and reliability trail the category leaders, but the existing-key compatibility works as advertised."
+      },
+      {
+        "post_slug": "schlage-encode-smart-wifi-deadbolt",
+        "rank": 5,
+        "blurb_markdown": "Full deadbolt replacement that includes both a traditional keyed cylinder and smart features—not a pure retrofit, but preserves key access for those replacing aging hardware entirely. Built-in alarm sensors add a security layer beyond just smart locking."
+      },
+      {
+        "post_slug": "yale-assure-lock-2",
+        "rank": 6,
+        "blurb_markdown": "Can be ordered with a keyed cylinder module that adds traditional key access to an otherwise keyless touchscreen lock. The modular approach lets you start keyless and add physical key capability later if household needs change."
+      }
+    ]
+  }
+]
