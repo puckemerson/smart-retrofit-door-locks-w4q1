@@ -70,5 +70,14 @@
         "affiliate_url": "https://digitized.house/yale-assure-lock-2-advances-smart-lock-options/"
       }
     ]
+  },
+  "lockly-secure-plus-smart-lock": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://lockly.com/products/lockly-secure-plus",
+        "affiliate_url": "https://lockly.com/products/lockly-secure-plus"
+      }
+    ]
   }
 }
