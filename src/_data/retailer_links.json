@@ -35,6 +35,15 @@
       }
     ]
   },
+  "lockly-secure-plus-smart-lock": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://lockly.com/products/lockly-secure-plus",
+        "affiliate_url": "https://lockly.com/products/lockly-secure-plus"
+      }
+    ]
+  },
   "lockly-vision-elite": {
     "links": [
       {
@@ -71,12 +80,12 @@
       }
     ]
   },
-  "lockly-secure-plus-smart-lock": {
+  "bosma-aegis-smart-lock": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://lockly.com/products/lockly-secure-plus",
-        "affiliate_url": "https://lockly.com/products/lockly-secure-plus"
+        "raw_url": "https://www.touchofmodern.com/sales/bosma-00eaca61-b5e2-41ba-a76d-0f3e5b344f26/bosma-aegis-smart-door-lock",
+        "affiliate_url": "https://www.touchofmodern.com/sales/bosma-00eaca61-b5e2-41ba-a76d-0f3e5b344f26/bosma-aegis-smart-door-lock"
       }
     ]
   }
