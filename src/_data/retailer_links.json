@@ -8,6 +8,15 @@
       }
     ]
   },
+  "bosma-aegis-smart-lock": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.touchofmodern.com/sales/bosma-00eaca61-b5e2-41ba-a76d-0f3e5b344f26/bosma-aegis-smart-door-lock",
+        "affiliate_url": "https://www.touchofmodern.com/sales/bosma-00eaca61-b5e2-41ba-a76d-0f3e5b344f26/bosma-aegis-smart-door-lock"
+      }
+    ]
+  },
   "eufy-security-smart-lock-touch-wifi": {
     "links": [
       {
@@ -80,12 +89,12 @@
       }
     ]
   },
-  "bosma-aegis-smart-lock": {
+  "aqara-smart-lock-u100": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.touchofmodern.com/sales/bosma-00eaca61-b5e2-41ba-a76d-0f3e5b344f26/bosma-aegis-smart-door-lock",
-        "affiliate_url": "https://www.touchofmodern.com/sales/bosma-00eaca61-b5e2-41ba-a76d-0f3e5b344f26/bosma-aegis-smart-door-lock"
+        "raw_url": "https://snapklik.com/en-ca/product/aqara-smart-lock-u100-fingerprint-keyless-entry-door-lock-with-apple-home-key-touchscreen-keypad-bluetooth-electronic-deadbolt-ip65-weatherproof-supports-apple-homekit-alexa-google-ifttt-gray/0P3W4P77YHSE5",
+        "affiliate_url": "https://snapklik.com/en-ca/product/aqara-smart-lock-u100-fingerprint-keyless-entry-door-lock-with-apple-home-key-touchscreen-keypad-bluetooth-electronic-deadbolt-ip65-weatherproof-supports-apple-homekit-alexa-google-ifttt-gray/0P3W4P77YHSE5"
       }
     ]
   }
